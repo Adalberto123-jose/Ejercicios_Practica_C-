@@ -50,6 +50,20 @@ namespace Ejercicios
             Console.WriteLine(suma); */
 
             /*5.- Realiza un programa en C#, que muestre la suma de los números impares del 1 al 100 */
+           /* int i = 1, suma = 0;
+
+            while(i <= 100)
+            {
+                if (i % 2 != 0)
+                {
+                    suma += i;
+                
+                }
+                i++;
+            }
+            Console.WriteLine(suma);*/
+
+
         }
     }
 }
